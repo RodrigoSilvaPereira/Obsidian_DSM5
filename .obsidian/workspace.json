@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "b0d32e269da4b198",
+    "type": "split",
+    "children": [
+      {
+        "id": "3efd7d73b0aa9812",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "344a1649fbdccd3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computação em Nuvem/Serviços da AWS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Serviços da AWS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b9a81e03d41281a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d030c749d6c50184",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "389436ba423efbe7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "d7b57689c981e38a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "292e1e813bb6434f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6de2c6f45500f8be",
+    "type": "split",
+    "children": [
+      {
+        "id": "786edc2d17f2fad4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f64b58aae539fee6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "3db1c1560b1d90fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "b74185b3558041ae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "51ba9c3990164983",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "344a1649fbdccd3f",
+  "lastOpenFiles": [
+    "Computação em Nuvem/Main.canvas",
+    "Computação em Nuvem/Serviços da AWS.md",
+    "Computação em Nuvem/Images/3.png",
+    "Computação em Nuvem/Images/2.png",
+    "Computação em Nuvem/Images/1.png",
+    "Computação em Nuvem/Images",
+    "Computação em Nuvem/Computação em Nuvem - IaaS, PaaS, SaaS e Modelos de Implantação Public, Private, Hybrid.md",
+    "Computação em Nuvem/Protocolos da Cisco e IIS - Guia Completo.md",
+    "Computação em Nuvem/Protocolo TCP IP e Endereçamento de Redes.md",
+    "Aprendizado de Máquina/Inteligência Artificial e Aprendizado de Máquina.md",
+    "Aprendizado de Máquina/Main.canvas",
+    "Computação em Nuvem",
+    "Programação Mobile/Main.canvas",
+    "Programação Mobile/Funcionamento do @Composable.md",
+    "Aprendizado de Máquina",
+    "Programação Mobile/Estilização no Jetpack Compose com Modifier e Material Design.md",
+    "Programação Mobile/Conceitos Kotlin.md",
+    "Programação Mobile/Componentes Kotlin.md",
+    "[Documentos.md",
+    "Programação Mobile"
+  ]
+}
