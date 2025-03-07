@@ -21,7 +21,7 @@
 		{"id":"2508b54f84772fcc","type":"text","text":"**Pré-processamento de Dados**: Limpeza, Transformação e Seleção das características mais importantes dos dados.","x":429,"y":1660,"width":389,"height":109,"color":"4"},
 		{"id":"82231988322ba24d","type":"text","text":"**Implementação e Monitoramento**: O modelo treinado é implementado em ambiente real.","x":462,"y":2260,"width":325,"height":109,"color":"4"},
 		{"id":"9a8f347a565d8ad7","type":"text","text":"**Etapas do  Machine Learning**","x":489,"y":1320,"width":271,"height":60,"color":"4"},
-		{"id":"fa97279c023e9558","x":599,"y":-1060,"width":486,"height":409,"type":"file","file":"Aprendizado de Máquina/Inteligência Artificial e Aprendizado de Máquina.md"}
+		{"id":"fa97279c023e9558","type":"file","file":"Aprendizado de Máquina/Inteligência Artificial e Aprendizado de Máquina.md","x":599,"y":-1060,"width":486,"height":409,"color":"4"}
 	],
 	"edges":[
 		{"id":"e1ee3592aa734c8e","fromNode":"272437577baf1cf2","fromSide":"top","toNode":"1e23ae5df2f6bbf7","toSide":"bottom","color":"2"},

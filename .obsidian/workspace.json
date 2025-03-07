@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "35d2153995297a5c",
+        "id": "30b2265f43e50cd3",
         "type": "tabs",
         "children": [
           {
-            "id": "613b9b8650e44eff",
+            "id": "2a8ed6a9f4b2a2db",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,20 +161,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "613b9b8650e44eff",
+  "active": "2a8ed6a9f4b2a2db",
   "lastOpenFiles": [
-    "Computação em Nuvem/Main.canvas",
-    "Segurança no Desenvolvimento de Aplicações/Main.canvas",
+    "Aprendizado de Máquina/Main_MachineLearning.canvas",
+    "Computação em Nuvem/Main_Cloud.canvas",
+    "Programação Mobile/Main_Mobile.canvas",
+    "Segurança no Desenvolvimento de Aplicações/Main_Security.canvas",
     "Computação em Nuvem/Protocolo TCP IP e Endereçamento de Redes.md",
     "Segurança no Desenvolvimento de Aplicações/Protocolo TCP IP e Endereçamento de Redes.md",
     "Segurança no Desenvolvimento de Aplicações/Protocolos da Cisco e IIS - Guia Completo.md",
     "Computação em Nuvem/Computação em Nuvem - IaaS, PaaS, SaaS e Modelos de Implantação Public, Private, Hybrid.md",
     "Computação em Nuvem/Serviços da AWS.md",
     "Computação em Nuvem/Protocolos da Cisco e IIS - Guia Completo.md",
-    "Aprendizado de Máquina/Main.canvas",
     "Segurança no Desenvolvimento de Aplicações/Serviços da AWS.md",
     "Segurança no Desenvolvimento de Aplicações/Computação em Nuvem - IaaS, PaaS, SaaS e Modelos de Implantação Public, Private, Hybrid.md",
-    "Programação Mobile/Main.canvas",
     "Computação em Nuvem/Images/3.png",
     "Computação em Nuvem/Images/2.png",
     "Computação em Nuvem/Images/1.png",
