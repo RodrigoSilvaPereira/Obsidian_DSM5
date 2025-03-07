@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"85e0b0c468329ce0","type":"text","text":"**Segurança no Desenvolvimento de Aplicações**","x":-280,"y":-104,"width":300,"height":84,"color":"6"},
+		{"id":"53efaea442d9f097","type":"text","text":"**TCP/IP** é um conjunto de protocolos de comunicação usados para conectar dispositivos em uma rede, garantindo a transmissão confiável de dados entre sistemas. Ele inclui protocolos como TCP, IP, UDP, entre outros.","x":-1117,"y":-460,"width":325,"height":220,"color":"5"},
+		{"id":"92786909fcdb4243","type":"text","text":"Conhecimentos Básicos para a Matéria","x":-647,"y":-380,"width":250,"height":60,"color":"5"},
+		{"id":"ea615a87b4031c3b","type":"file","file":"Segurança no Desenvolvimento de Aplicações/Protocolo TCP IP e Endereçamento de Redes.md","x":-1477,"y":-1400,"width":635,"height":400,"color":"5"},
+		{"id":"fff568562a209d65","type":"text","text":"Um **gateway** é um dispositivo de rede que conecta diferentes redes, como uma rede local (LAN) e a internet, funcionando como uma porta de entrada e saída para o tráfego de dados entre elas.","x":-672,"y":-909,"width":300,"height":217,"color":"5"},
+		{"id":"4ce9dbefad58584a","type":"text","text":"A **máscara de rede** é um número binário que define qual parte de um endereço IP pertence à rede e qual parte pertence ao host, permitindo dividir redes em sub-redes menores e gerenciar o tráfego de dados.","x":-1017,"y":-783,"width":290,"height":246,"color":"5"},
+		{"id":"ca6e6e56ad482fd8","type":"text","text":"O **cálculo de IP** envolve determinar os endereços de rede, hosts e broadcast com base no endereço IP e na máscara de rede.","x":-297,"y":-768,"width":250,"height":152,"color":"5"},
+		{"id":"fef7452b02923ec4","type":"text","text":"Conhecimentos Cisco","x":320,"y":-110,"width":250,"height":60,"color":"#ff00ea"},
+		{"id":"eafc1cb3e3c37499","type":"text","text":"**XAMPP**: Inclui componentes como Apache, MySQL, PHP e Perl, permitindo o desenvolvimento e testes de aplicações web em um único pacote.","x":835,"y":-320,"width":348,"height":118,"color":"#ff00ea"},
+		{"id":"f1eda9a0aaa01ff4","type":"text","text":"**ISS - Internet Information Services**: O **IIS** é um servidor web desenvolvido pela Microsoft, utilizado para hospedar sites, aplicativos web e serviços.","x":835,"y":60,"width":377,"height":123,"color":"#ff00ea"},
+		{"id":"f9313e14a20bd749","type":"text","text":"**Link Aggregation**: Permite combinar múltiplos links físicos em um único link lógico.","x":898,"y":-126,"width":285,"height":93,"color":"#ff00ea"},
+		{"id":"1131d0fd586a9612","type":"text","text":"**VLAN (Virtual Local Area Network)**: Uma **VLAN** permite segmentar uma rede física em várias redes lógicas, proporcionando melhor gerenciamento, segurança e controle do tráfego. ","x":570,"y":-516,"width":359,"height":147,"color":"#ff00ea"},
+		{"id":"ce0643a928478ce4","type":"text","text":"**Spanning Tree Protocol (STP)**: É utilizado para evitar loops de rede em ambientes com múltiplos switches, ele identifica e bloqueia caminhos redundantes, garantindo que haja apenas um caminho ativo entre os dispositivos","x":570,"y":240,"width":397,"height":172,"color":"#ff00ea"},
+		{"id":"b7eeb032f1b27346","type":"file","file":"Segurança no Desenvolvimento de Aplicações/Protocolos da Cisco e IIS - Guia Completo.md","x":1465,"y":-311,"width":567,"height":464,"color":"#ff00dd"},
+		{"id":"efbc32ab0e0c0b58","type":"text","text":"**Kali Linux**","x":-647,"y":180,"width":207,"height":60,"color":"3"}
+	],
+	"edges":[
+		{"id":"b7766725925c76f7","fromNode":"85e0b0c468329ce0","fromSide":"left","toNode":"92786909fcdb4243","toSide":"bottom","color":"6"},
+		{"id":"5109dfcfbd20a463","fromNode":"85e0b0c468329ce0","fromSide":"right","toNode":"fef7452b02923ec4","toSide":"left","color":"6"},
+		{"id":"12ac5e625fe52715","fromNode":"92786909fcdb4243","fromSide":"left","toNode":"53efaea442d9f097","toSide":"right","color":"5"},
+		{"id":"615f802f488fa505","fromNode":"92786909fcdb4243","fromSide":"top","toNode":"4ce9dbefad58584a","toSide":"bottom","color":"5"},
+		{"id":"6ca7d38f793566f6","fromNode":"92786909fcdb4243","fromSide":"top","toNode":"fff568562a209d65","toSide":"bottom","color":"5"},
+		{"id":"63ee7d1593ff8923","fromNode":"92786909fcdb4243","fromSide":"top","toNode":"ca6e6e56ad482fd8","toSide":"bottom","color":"5"},
+		{"id":"316223553ab98b31","fromNode":"53efaea442d9f097","fromSide":"left","toNode":"ea615a87b4031c3b","toSide":"left","color":"5"},
+		{"id":"5144f77338a4c43a","fromNode":"4ce9dbefad58584a","fromSide":"left","toNode":"ea615a87b4031c3b","toSide":"bottom","color":"5"},
+		{"id":"935a99932a69b3fd","fromNode":"fff568562a209d65","fromSide":"left","toNode":"ea615a87b4031c3b","toSide":"right","color":"5"},
+		{"id":"31558e348e33a9af","fromNode":"ca6e6e56ad482fd8","fromSide":"top","toNode":"ea615a87b4031c3b","toSide":"right","color":"5"},
+		{"id":"39fa6b1597c9f6e5","fromNode":"fef7452b02923ec4","fromSide":"top","toNode":"1131d0fd586a9612","toSide":"left","color":"#ff00ea"},
+		{"id":"2aef66a47720bba9","fromNode":"fef7452b02923ec4","fromSide":"top","toNode":"eafc1cb3e3c37499","toSide":"left","color":"#ff00ea"},
+		{"id":"0c042a0ae2712545","fromNode":"fef7452b02923ec4","fromSide":"right","toNode":"f9313e14a20bd749","toSide":"left","color":"#ff00ea"},
+		{"id":"f9d521d00be086fb","fromNode":"fef7452b02923ec4","fromSide":"bottom","toNode":"f1eda9a0aaa01ff4","toSide":"left","color":"#ff00ea"},
+		{"id":"b6870fb1aa423d55","fromNode":"fef7452b02923ec4","fromSide":"bottom","toNode":"ce0643a928478ce4","toSide":"left","color":"#ff00ea"},
+		{"id":"8dd8190cea2a212a","fromNode":"1131d0fd586a9612","fromSide":"right","toNode":"b7eeb032f1b27346","toSide":"top","color":"#ff00dd"},
+		{"id":"9084f9b0c6373b56","fromNode":"eafc1cb3e3c37499","fromSide":"right","toNode":"b7eeb032f1b27346","toSide":"left","color":"#ff00dd"},
+		{"id":"8ffff7c853e904be","fromNode":"f9313e14a20bd749","fromSide":"right","toNode":"b7eeb032f1b27346","toSide":"left","color":"#ff00dd"},
+		{"id":"540e732f6434d81b","fromNode":"f1eda9a0aaa01ff4","fromSide":"right","toNode":"b7eeb032f1b27346","toSide":"left","color":"#ff00dd"},
+		{"id":"b8d5dd14db502f6c","fromNode":"ce0643a928478ce4","fromSide":"right","toNode":"b7eeb032f1b27346","toSide":"bottom","color":"#ff00dd"},
+		{"id":"ee96c64b5f5d2d7d","fromNode":"85e0b0c468329ce0","fromSide":"bottom","toNode":"efbc32ab0e0c0b58","toSide":"top","color":"3"}
+	]
+}
