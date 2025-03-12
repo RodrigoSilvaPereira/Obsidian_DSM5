@@ -11,10 +11,17 @@
             "id": "2a8ed6a9f4b2a2db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Programação Mobile/Main_Mobile.canvas",
+                "viewState": {
+                  "x": 3001.4553222899353,
+                  "y": 93.08413659377604,
+                  "zoom": -1.1761079569180983
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Main_Mobile"
             }
           }
         ]
